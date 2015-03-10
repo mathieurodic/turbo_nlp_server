@@ -1,4 +1,4 @@
-GETTING STARTED
+Getting started
 ===============
 
 * Download the following files (if all you need is tagging, the second
@@ -9,14 +9,14 @@ GETTING STARTED
 * Expand them, and place the extract files in the `data` directory
 
 
-CONFIGURATION
+Configuration
 =============
 
 The settings for the server can be found in `settings.py`.
 Please ensure the TCP port is not already in use on your machine, and that the path to the models are correct.
 
 
-START/STOP THE SERVER
+Start/stop the server
 =====================
 
 Simply run the following command to start: `./nlpserver start`
